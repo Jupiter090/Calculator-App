@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Planeta M\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Planeta M\\.nuget\\packages"
+    ]
+  }
+}
