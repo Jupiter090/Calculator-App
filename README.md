@@ -1,4 +1,4 @@
-# Calculator-Appň
+# Calculator-App
 ## What is this calculator
 Basic calculator made in C#. Can solve mathmatics problems with +, -, *, /.
 ## How to install
